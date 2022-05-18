@@ -1,2 +1,2 @@
-# SmolyarAA.github.io
+# Смоляр Андрей
 MyFirstReleasedSite
