@@ -1,0 +1,37 @@
+.section{
+	background: #dae3c3;
+	padding: 30px;	
+}
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 30px;	
+}
+.header span{
+	display: block;
+}
+.container, .col-lg-6{
+	border: 1px solid #000;
+}
+.form-header, .section-header{
+	margin-bottom: 20px;	
+	font-size: 20px;
+	font-weight: 900;
+}
+.form{
+	border: 5px solid #456cba;
+	padding: 35px 20px;	
+}
+.form-control{
+	margin-bottom: 12px;	
+}
+img{
+	width: 50px;
+	margin-bottom: 20px;	
+}
+.feature{
+	margin: 60px auto;
+
+}
+
+
